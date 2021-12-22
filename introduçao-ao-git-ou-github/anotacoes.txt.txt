@@ -1,0 +1,2 @@
+Link para downlond do git: https://git-scm.com/downloads
+o git bash é uma terminal estendido para otinizar o uso do git.
